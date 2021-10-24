@@ -32,12 +32,8 @@ SOLUTION
 └── yarn.lock
 ```
 
-## Expected Outcome
-
-![fire_contact](https://user-images.githubusercontent.com/67653402/132840466-08446274-60ad-4f0c-bad5-d47bf67903cc.gif)
-
 ## Live Demo
-- https://firecontact-inclass.herokuapp.com/
+- https://git.heroku.com/fcontact-app.git
 
 ## Objective
 
