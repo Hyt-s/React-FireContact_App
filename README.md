@@ -11,6 +11,7 @@ Project aims to create a Contact App.
 009 - FireContact App (folder)
 |
 |----readme.md
+|
 SOLUTION
 ├── public
 │     └── index.html
@@ -33,7 +34,7 @@ SOLUTION
 ```
 
 ## Live Demo
-- https://git.heroku.com/fcontact-app.git
+- https://fcontact-app.herokuapp.com/
 
 ## Objective
 
