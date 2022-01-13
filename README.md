@@ -1,4 +1,3 @@
-
 # Project : FireContact App 
 
 ## Description
@@ -31,6 +30,7 @@ SOLUTION
 │    └── index.css
 ├── package.json
 └── yarn.lock
+
 ```
 
 ## Live Demo
