@@ -38,7 +38,7 @@ SOLUTION
 
 ## Objective
 
-Build a FireContact App using React.js and Firebase.
+Build a Contact App using React.js and Firebase.
 
 ## Notes
 
